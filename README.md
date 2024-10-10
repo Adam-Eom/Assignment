@@ -1,3 +1,5 @@
 # Assignment
 
-2022732002 엄정현
+19990505 KIMJUNHO
+
+### 이 부분은 Colla
